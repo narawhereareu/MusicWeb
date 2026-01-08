@@ -115,7 +115,7 @@ function App() {
         </div>
       </div>
 
-      {/* Bottom Player Bar */}
+      {/* Bottom Player Bar
       {currentVideo && (
         <BottomPlayer 
           video={currentVideo}
@@ -123,7 +123,7 @@ function App() {
           onPrev={prevSong}
           hasVideos={videos.length > 0}
         />
-      )}
+      )} */}
     </div>
   );
 }
